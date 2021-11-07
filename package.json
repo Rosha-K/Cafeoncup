@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@react-native-firebase/app": "^13.0.1",
+    "@react-native-firebase/firestore": "^13.0.1",
+    "react-native-paper": "^4.10.0"
+  }
+}
